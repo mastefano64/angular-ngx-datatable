@@ -8,6 +8,14 @@ ngx-datatable is an Angular component for presenting large and complex data. It 
 
 ![alt text](https://www.stefanomarchisio.it/img/ngx-angular-datatable1.png)
 
+```diff
+- The names displayed were generated with a random name generator and are not real people! 
+```
+
 ![alt text](https://www.stefanomarchisio.it/img/ngx-angular-datatable2.png)
+
+```diff
+- The names displayed were generated with a random name generator and are not real people! 
+```
 
 ![alt text](https://www.stefanomarchisio.it/img/ngx-angular-datatable3.png)
