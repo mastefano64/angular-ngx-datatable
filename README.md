@@ -1,6 +1,6 @@
 # AppInput
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1. a
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1. aa
 
 ## Development server
 
